@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+artifacts/
+outputs/
+results/*.json
+data/processed/
+.DS_Store
