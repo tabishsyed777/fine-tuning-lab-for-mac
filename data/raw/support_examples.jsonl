@@ -1,0 +1,15 @@
+{"ticket":"I cannot sign in after resetting my password.","label":"ACCESS"}
+{"ticket":"My two-factor authentication code is not arriving.","label":"ACCESS"}
+{"ticket":"Please add Maya to the payroll dashboard.","label":"ACCESS"}
+{"ticket":"The invoice shows two charges for this month.","label":"BILLING"}
+{"ticket":"How do I update the credit card on our account?","label":"BILLING"}
+{"ticket":"Our receipt has the wrong company address.","label":"BILLING"}
+{"ticket":"My laptop battery lasts less than thirty minutes.","label":"HARDWARE"}
+{"ticket":"The office monitor stays black when connected.","label":"HARDWARE"}
+{"ticket":"The keyboard has several keys that do not work.","label":"HARDWARE"}
+{"ticket":"The VPN disconnects every few minutes.","label":"NETWORK"}
+{"ticket":"Wi-Fi is connected but no websites load.","label":"NETWORK"}
+{"ticket":"Video calls freeze for everyone in our room.","label":"NETWORK"}
+{"ticket":"The desktop app crashes immediately on launch.","label":"SOFTWARE"}
+{"ticket":"Where can I download the latest macOS client?","label":"SOFTWARE"}
+{"ticket":"The export button is greyed out in the reporting app.","label":"SOFTWARE"}
